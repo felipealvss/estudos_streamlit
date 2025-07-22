@@ -1,0 +1,3 @@
+https://hub.asimov.academy/tutorial/deploy-com-streamlit-cloud-guia-para-iniciantes/
+
+https://docs.streamlit.io/get-started/tutorials/create-a-multipage-app
